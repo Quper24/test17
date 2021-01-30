@@ -1,3 +1,4 @@
-const a = 'Hello world';
+const a = 'Hello';
+const b = "world"
 
-console.log(a);
+console.log(a + ' ' + b + '!');
